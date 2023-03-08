@@ -1,0 +1,3 @@
+Dao  = dao.dsVolatile.CreditDao
+Service = metier.Credier.metier
+Controleur = presentation.CreditCntroleur
